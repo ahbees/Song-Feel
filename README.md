@@ -1,1 +1,1 @@
-Welcome to my collection of personal projects! I'm a Computer Science student at UC Santa Cruz, and these projects reflect both my passion for coding and my desire to continuously improve my skills. These projects are created for fun, exploration, and professional development as I expand my knowledge in various areas of software development and problem-solving.
+WIP
